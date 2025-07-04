@@ -20,12 +20,17 @@ n8n is an open-source workflow automation tool that enables you to connect vario
    cd n8n
    ```
 
-2. **Start the services:**
+2. **Rename `.env.example` to `.env`**
+   ```bash
+   mv .env.example .env
+   ```
+
+3. **Start the services:**
    ```bash
    docker-compose up -d
    ```
 
-3. **Access n8n:**
+4. **Access n8n:**
    Open your browser and go to [http://localhost:5678](http://localhost:5678) (or the port specified in your `docker-compose.yml`).
 
 ## Usage
