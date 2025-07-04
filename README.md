@@ -16,7 +16,7 @@ n8n is an open-source workflow automation tool that enables you to connect vario
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/otnansirk/n8n.git
+   git clone https://github.com/otnansirk/n8n-docker.git
    cd n8n
    ```
 
