@@ -42,4 +42,4 @@ n8n is an open-source workflow automation tool that enables you to connect vario
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
 
 ## License
-This project is licensed under the [Apache 2.0 License](LICENSE) (or specify your license here).
+This project is licensed under the [MIT License](LICENSE) (or specify your license here).
