@@ -22,12 +22,12 @@ n8n is an open-source workflow automation tool that enables you to connect vario
 
 2. **Rename `.env.example` to `.env`**
    ```bash
-   mv .env.example .env
+   cp .env.example .env
    ```
 
 3. **Start the services:**
    ```bash
-   docker-compose up -d
+   docker compose up -d
    ```
 
 4. **Access n8n:**
@@ -42,4 +42,4 @@ n8n is an open-source workflow automation tool that enables you to connect vario
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
 
 ## License
-This project is licensed under the [Apache 2.0 License](LICENSE) (or specify your license here).
+This project is licensed under the [MIT License](LICENSE).
